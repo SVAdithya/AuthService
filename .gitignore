@@ -37,3 +37,6 @@ out/
 
 ### VS Code ###
 .vscode/
+gradlew
+*.jar
+gradle/wrapper/gradle-wrapper.properties
