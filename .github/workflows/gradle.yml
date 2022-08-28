@@ -31,9 +31,9 @@ jobs:
     - name: Build with Gradle
       uses: gradle/gradle-build-action@67421db6bd0bf253fb4bd25b31ebb98943c375e1
     - name: Test UT
-        with:
-          arguments: build
+      with:
+        arguments: build
     - name: Test UT
       uses: gradle/gradle-build-action@v2
-        with:
-          arguments: test
+      with:
+        arguments: test
