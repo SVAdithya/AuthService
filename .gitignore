@@ -1,6 +1,8 @@
 HELP.md
 .gradle/
 build/
++gradlew
+*.jar
 gradlew/
 gradlew.bat
 !gradle/wrapper/gradle-wrapper.jar
@@ -40,3 +42,5 @@ out/
 gradlew
 *.jar
 gradle/wrapper/gradle-wrapper.properties
+gradle/.DS_Store
+.DS_Store
