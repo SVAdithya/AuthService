@@ -41,6 +41,5 @@ out/
 .vscode/
 gradlew
 *.jar
-gradle/wrapper/gradle-wrapper.properties
 gradle/.DS_Store
 .DS_Store
