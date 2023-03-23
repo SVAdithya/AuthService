@@ -1,3 +1,4 @@
+/*
 package com.auth.dao.entity;
 
 import lombok.AllArgsConstructor;
@@ -32,3 +33,4 @@ public class UserInfoDao {
         this.name = name;
     }
 }
+*/
